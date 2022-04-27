@@ -7,8 +7,10 @@ For each one I have added a controller, dto, entity, repository, and a service.
 An exception package was also added, classifying the exceptions into two main types namely: BadRequestException, ResourceNotFoundexception.
 #
 A table showing the api design for the first two resources can be found in the repository with the name "APIDesign", the third resource is missing due to an unresolvable error. 
+![APIDesign](https://user-images.githubusercontent.com/74601216/165496223-4b0ad8bb-4874-42c2-b721-818e96fadb0f.PNG)
 #
 APIs were created for the resources, tested using Postman, the data gets edited and the edits were verified. 
 #
 A database was also created with docker. An image was created as well. 
+
 
